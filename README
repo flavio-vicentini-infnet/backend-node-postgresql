@@ -1,0 +1,17 @@
+[x] - CRIAR CONTA
+    /usuarios
+
+[]  - LOGIN
+    /login
+
+[]  - LISTAR CURSOS
+    /cursos
+
+[]  - FAZER INSCRIÇÃO
+    /cursos/:idCurso
+
+[]  - CANCELAR INSCRIÇÃO
+    /cursos/:idCurso
+
+[]  - LISTAR CURSOS INSCRITOS
+    /:idUsuario
